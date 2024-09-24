@@ -13,7 +13,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://pokemon-search-henna.vercel.app/"
+            href="https://pokemon-delta-sable.vercel.app/"
             target="_blank"
           >
             <div>
@@ -54,7 +54,7 @@ const Projects = () => {
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://pokemon-search-henna.vercel.app/"
+                href="https://pokemon-delta-sable.vercel.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
